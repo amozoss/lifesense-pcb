@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name texas-addition)(type KiCad)(uri lib/texas.pretty)(options "")(descr ""))
+)

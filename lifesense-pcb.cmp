@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Sun 08 Jun 2014 03:06:17 PM MDT
+
+BeginCmp
+TimeStamp = /5394CA66;
+Reference = ??1;
+ValeurCmp = MSP430F5529;
+IdModule  = texas-addition:texas-PN_S-PQFP-G80;
+EndCmp
+
+BeginCmp
+TimeStamp = /5389F798;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5394D013;
+Reference = IC1;
+ValeurCmp = CC3000;
+IdModule  = texas-addition:CC3000;
+EndCmp
+
+BeginCmp
+TimeStamp = /5389F825;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+EndListe
