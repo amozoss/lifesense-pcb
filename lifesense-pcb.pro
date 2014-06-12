@@ -1,4 +1,4 @@
-update=Sun 08 Jun 2014 03:04:17 PM MDT
+update=Wed 11 Jun 2014 08:09:36 PM MDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -35,7 +35,7 @@ version=1
 PageLayoutDescrFile=
 SubpartIdSeparator=0
 SubpartFirstId=65
-LibDir=lib;/home/dan/Downloads/kicad-lib-master/components
+LibDir=lib
 NetFmtName=PcbnewAdvanced
 RptD_X=0
 RptD_Y=100
@@ -72,5 +72,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=texasF5529
-LibName32=ti-ic
+LibName31=ti-ic
