@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name texas-addition)(type KiCad)(uri lib/texas.pretty)(options "")(descr ""))
+  (lib (name texas-addition)(type KiCad)(uri ${KIPRJMOD}/lib/texas.pretty)(options "")(descr ""))
+  (lib (name lifesense)(type KiCad)(uri ${KIPRJMOD}/lib/lifesense.pretty)(options "")(descr ""))
 )

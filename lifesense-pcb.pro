@@ -1,4 +1,4 @@
-update=Wed 11 Jun 2014 08:09:36 PM MDT
+update=Tue 26 Aug 2014 09:47:14 AM MDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -32,15 +32,7 @@ ModuleOutlineThickness=0.15
 LibDir=
 [eeschema]
 version=1
-PageLayoutDescrFile=
-SubpartIdSeparator=0
-SubpartFirstId=65
 LibDir=lib
-NetFmtName=PcbnewAdvanced
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -73,3 +65,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=ti-ic
+LibName32=tm4c123gh6pm

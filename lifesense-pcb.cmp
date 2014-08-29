@@ -1,10 +1,178 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Wed 11 Jun 2014 08:17:21 PM MDT
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Wed 27 Aug 2014 08:47:08 PM MDT
 
 BeginCmp
-TimeStamp = /5389F798;
+TimeStamp = /53F23C41;
+Reference = A1;
+ValeurCmp = ANT;
+IdModule  = lifesense:ant_Wigle_A2_4G;
+EndCmp
+
+BeginCmp
+TimeStamp = /539B889D;
+Reference = C3;
+ValeurCmp = 0.01uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /539B893A;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /539B8905;
+Reference = C5;
+ValeurCmp = 0.01uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /539B8977;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /539B89A8;
+Reference = C7;
+ValeurCmp = 1.0uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /5399453F;
+Reference = C8;
+ValeurCmp = 0.01uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /539B8C45;
+Reference = C10;
+ValeurCmp = 0.01uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /539B8C90;
+Reference = C11;
+ValeurCmp = 0.01uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /539B8CD2;
+Reference = C12;
+ValeurCmp = 1.0uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED9ECB;
+Reference = C14;
+ValeurCmp = 1.0uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED9F18;
+Reference = C18;
+ValeurCmp = 0.01uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /539B8D9E;
+Reference = C22;
+ValeurCmp = 2.2uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDC004;
+Reference = C28;
+ValeurCmp = 24pF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDBF05;
+Reference = C29;
+ValeurCmp = 24pF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDBEE6;
+Reference = C31;
+ValeurCmp = 10pF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDBE4D;
+Reference = C32;
+ValeurCmp = 10pF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3D861;
+Reference = C100;
+ValeurCmp = 4.7uF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3CD7E;
+Reference = C101;
+ValeurCmp = 1pF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3D88E;
+Reference = C102;
+ValeurCmp = 100nF;
+IdModule  = lifesense:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED670C;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = lifesense:ZX62-AB-5PA(11);
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE9441;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = LEDs:LED-0603;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE9488;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE940C;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDADE0;
+Reference = D4;
+ValeurCmp = Green;
+IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
@@ -15,17 +183,234 @@ IdModule  = texas-addition:CC3000;
 EndCmp
 
 BeginCmp
-TimeStamp = /5389F825;
-Reference = R1;
-ValeurCmp = R;
-IdModule  = SMD_Packages:SM0603;
+TimeStamp = /53ECE118;
+Reference = J1;
+ValeurCmp = CONN_10X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x10;
 EndCmp
 
 BeginCmp
-TimeStamp = /5398E33D;
+TimeStamp = /53ECDF71;
+Reference = J4;
+ValeurCmp = CONN_10X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /539C087C;
+Reference = P1;
+ValeurCmp = CONN_6;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE6B09;
+Reference = P2;
+ValeurCmp = CONN_01X01;
+IdModule  = lifesense:Pin_Header_Straight_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE6430;
+Reference = P21;
+ValeurCmp = CONN_01X01;
+IdModule  = lifesense:Pin_Header_Straight_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEB50D;
+Reference = Q1;
+ValeurCmp = DTC114E;
+IdModule  = lifesense:DTC114EET1G;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEB5AD;
+Reference = Q2;
+ValeurCmp = DTC114E;
+IdModule  = lifesense:DTC114EET1G;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEB54A;
+Reference = Q3;
+ValeurCmp = DTC114E;
+IdModule  = lifesense:DTC114EET1G;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE783E;
+Reference = R1;
+ValeurCmp = 0;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEC9B3;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE6546;
+Reference = R3;
+ValeurCmp = 330;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE6657;
+Reference = R4;
+ValeurCmp = 330;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE65EB;
+Reference = R5;
+ValeurCmp = 330;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE5D12;
+Reference = R8;
+ValeurCmp = 330;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE3E4D;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE4010;
+Reference = R10;
+ValeurCmp = R;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EECACB;
+Reference = R11;
+ValeurCmp = R;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EECA08;
+Reference = R12;
+ValeurCmp = R;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE7809;
+Reference = R13;
+ValeurCmp = 0;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE657B;
+Reference = R14;
+ValeurCmp = R;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED6BE2;
+Reference = R25;
+ValeurCmp = R;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDE14C;
+Reference = R26;
+ValeurCmp = R;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDAAC6;
+Reference = R27;
+ValeurCmp = 330;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE180B;
+Reference = R28;
+ValeurCmp = 10K;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED79A9;
+Reference = R29;
+ValeurCmp = R;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE2E9E;
+Reference = R31;
+ValeurCmp = 1M;
+IdModule  = lifesense:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE4BA6;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE4C4D;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE1E90;
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /539BDB51;
 Reference = U1;
-ValeurCmp = TM4C1230H6PM;
-IdModule  = QFP:lqfp64;
+ValeurCmp = TM4C123GH6PM;
+IdModule  = lifesense:lqfp64;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED8F06;
+Reference = U2;
+ValeurCmp = TPS73633DRB;
+IdModule  = lifesense:TPS73633DBV;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDBBF7;
+Reference = Y1;
+ValeurCmp = CRYSTAL;
+IdModule  = lifesense:AB26TRB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDBAD6;
+Reference = Y2;
+ValeurCmp = CRYSTAL;
+IdModule  = lifesense:ABM3;
 EndCmp
 
 EndListe

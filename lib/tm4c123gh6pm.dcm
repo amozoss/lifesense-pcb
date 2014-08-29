@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RGB_LEB_0404_COMA
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP TPS73633DRB
+D TPS769xx-Q1, Ultra Low Power 100mA Low Drop Out Regulator 1.2...5V, SOT23-5
+K Ultra Low Power Fixed Adjustable LDO 100mA
+F http://www.ti.com/lit/ds/symlink/tps76950-q1.pdf
+$ENDCMP
+#
+#End Doc Library
