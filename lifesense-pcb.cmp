@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Wed 27 Aug 2014 08:47:08 PM MDT
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Sat 30 Aug 2014 10:42:27 AM MDT
 
 BeginCmp
 TimeStamp = /53F23C41;
@@ -239,13 +239,6 @@ IdModule  = lifesense:DTC114EET1G;
 EndCmp
 
 BeginCmp
-TimeStamp = /53EE783E;
-Reference = R1;
-ValeurCmp = 0;
-IdModule  = lifesense:SMD-0603_r;
-EndCmp
-
-BeginCmp
 TimeStamp = /53EEC9B3;
 Reference = R2;
 ValeurCmp = R;
@@ -269,13 +262,6 @@ EndCmp
 BeginCmp
 TimeStamp = /53EE65EB;
 Reference = R5;
-ValeurCmp = 330;
-IdModule  = lifesense:SMD-0603_r;
-EndCmp
-
-BeginCmp
-TimeStamp = /53EE5D12;
-Reference = R8;
 ValeurCmp = 330;
 IdModule  = lifesense:SMD-0603_r;
 EndCmp
@@ -305,13 +291,6 @@ BeginCmp
 TimeStamp = /53EECA08;
 Reference = R12;
 ValeurCmp = R;
-IdModule  = lifesense:SMD-0603_r;
-EndCmp
-
-BeginCmp
-TimeStamp = /53EE7809;
-Reference = R13;
-ValeurCmp = 0;
 IdModule  = lifesense:SMD-0603_r;
 EndCmp
 
@@ -365,24 +344,10 @@ IdModule  = lifesense:SMD-0603_r;
 EndCmp
 
 BeginCmp
-TimeStamp = /53EE4BA6;
-Reference = SW1;
-ValeurCmp = SW_PUSH;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /53EE4C4D;
-Reference = SW2;
-ValeurCmp = SW_PUSH;
-IdModule  = ;
-EndCmp
-
-BeginCmp
 TimeStamp = /53EE1E90;
 Reference = SW3;
 ValeurCmp = SW_PUSH;
-IdModule  = ;
+IdModule  = lifesense:B3S-1000;
 EndCmp
 
 BeginCmp
